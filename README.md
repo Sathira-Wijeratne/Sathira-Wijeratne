@@ -8,7 +8,9 @@
 - 📫 How to reach me: it21138386@my.sliit.lk
 - 😄 Pronouns: He/him
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21138386" alt="it21138386" /></a> </p>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -92,13 +94,6 @@
 	
 <a href="https://www.draw.io/" target="_blank"> 
 	<img height="48" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png"/> </a>
-	
-	
-	
-	
-	
-	
-
 </p>
 </br>
 
