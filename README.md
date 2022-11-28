@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/him
 
 <h1 align="center">Hi 👋, I'm Sathira Wijeratne</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Undergraduate</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21138386" alt="it21138386" /></a> </p>
 
