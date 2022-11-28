@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Sathira Wijeratne</h1>
-<h3 align="center">A passionate Undergraduate</h3>
+<!--<h3 align="center">A passionate Undergraduate</h3>-->
 
 - 🔭 I’m currently pursuing my BSc (Hons) in Information Technology Specialising in Software Engineering
 - 🌱 I’m currently learning all sorts of technologies such as React JS, Python etc
@@ -35,8 +35,6 @@
 	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 <a href="https://netbeans.apache.org/" target="_blank"> 
 	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/> </a>	
-<a href="https://developer.android.com/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> </a>
 <a href="https://www.netacad.com/" target="_blank"> 
 	<img width="48" src="https://filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png"/> </a>
 <a href="https://octave.org/" target="_blank"> 
@@ -46,7 +44,7 @@
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
 	<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>	
 <a style="padding-right:8px;" href="https://www.apache.org/" target="_blank"> 
-	<img height="48" src="https://banner2.cleanpng.com/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg"/> </a>
+	<img height="48" src="https://takabus.com/tips/wp-content/uploads/2021/10/apache%E3%83%AD%E3%82%B4.png"/> </a>
 <a href="https://tomcat.apache.org/" target="_blank"> 
 	<img src="https://img.icons8.com/color/50/000000/tomcat.png"/></a>	
 <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> 
