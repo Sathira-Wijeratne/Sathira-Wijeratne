@@ -23,77 +23,56 @@
   
   <a href="https://expressjs.com" target="_blank"> 
 	<img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" width="48" height="48"/> </a>
-	
 <a href="https://www.npmjs.com/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-
 <a href="https://www.bloodshed.net/" target="_blank"> 
 	<img width="48" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png"/></a>
-	
 <a href="https://www.eclipse.org/" target="_blank"> 
 	<img src="https://img.icons8.com/officel/48/java-eclipse.png"/></a>
-	
 <a href="https://visualstudio.microsoft.com/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-	
 <a href="https://code.visualstudio.com/download" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-	
 <a href="https://netbeans.apache.org/" target="_blank"> 
-	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/> </a>
-	
-	
+	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"/> </a>	
 <a href="https://developer.android.com/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> </a>
-	
 <a href="https://www.netacad.com/" target="_blank"> 
 	<img width="48" src="https://filecr.com/wp-content/uploads/2020/10/Cisco-Packet-Tracer.png"/> </a>
-	
 <a href="https://octave.org/" target="_blank"> 
-	<img width="48" src="https://icon-library.com/images/octave-icon/octave-icon-5.jpg"/> </a>
-	
+	<img width="48" src="https://icon-library.com/images/octave-icon/octave-icon-5.jpg"/> </a>	
 <a href="https://www.rstudio.com/" target="_blank"> 
-	<img width="40" src="https://www.kindpng.com/picc/m/208-2087341_rstudio-icon-r-studio-hd-png-download.png"/> </a>
-	
-	
-	
+	<img width="40" src="https://www.kindpng.com/picc/m/208-2087341_rstudio-icon-r-studio-hd-png-download.png"/> </a>	
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> 
-	<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-	
+	<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>	
 <a style="padding-right:8px;" href="https://www.apache.org/" target="_blank"> 
 	<img height="48" src="https://banner2.cleanpng.com/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg"/> </a>
-
 <a href="https://tomcat.apache.org/" target="_blank"> 
-	<img src="https://img.icons8.com/color/50/000000/tomcat.png"/></a>
-	
+	<img src="https://img.icons8.com/color/50/000000/tomcat.png"/></a>	
 <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> 
-	<img height="48" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png"/> </a>
-	
+	<img height="48" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png"/> </a>	
 <a style="padding-right:8px;" href="https://www.mysql.com/products/workbench/" target="_blank"> 
-	<img height="48" src="https://support.dbconvert.com/hc/article_attachments/360015342380/MySQLWorkbench.png"/> </a>
-	
+	<img height="48" src="https://support.dbconvert.com/hc/article_attachments/360015342380/MySQLWorkbench.png"/> </a>	
 <a style="padding-right:8px;" href="https://replit.com/" target="_blank"> 
-	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png"/> </a>
-	
+	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png"/> </a>	
 <a style="padding-right:8px;" href="https://www.virtualbox.org/" target="_blank"> 
-	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/> </a>
-	
-	
-	
+	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/> </a>	
 <a style="padding-right:8px;" href="https://github.com/" target="_blank"> 
-	<img height="48" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> </a>
-	
+	<img height="48" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/> </a>	
 <a href="https://www.apachefriends.org/" target="_blank"> 
-	<img height="48" src="https://e1.pngegg.com/pngimages/978/256/png-clipart-clean-hd-icon-ii-xampp-squircle-orange-and-black-icon.png"/> </a>
-	
+	<img height="48" src="https://e1.pngegg.com/pngimages/978/256/png-clipart-clean-hd-icon-ii-xampp-squircle-orange-and-black-icon.png"/> </a>	
 <a href="https://www.justinmind.com/" target="_blank"> 
-	<img height="48" src="https://play-lh.googleusercontent.com/9uyALbzw-lHHIAp3WqBihDKQ_PIozjUkU7IS0b08Me8xreAOvBG3-imZwW3m4PC4Tlh9"/> </a>
-	
+	<img height="48" src="https://play-lh.googleusercontent.com/9uyALbzw-lHHIAp3WqBihDKQ_PIozjUkU7IS0b08Me8xreAOvBG3-imZwW3m4PC4Tlh9"/> </a>	
 <a href="https://staruml.io/" target="_blank"> 
 	<img height="48" src="https://staruml.io/image/staruml_logo.png"/> </a>
-	
 <a href="https://www.draw.io/" target="_blank"> 
 	<img height="48" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9461f02c23e995e5d5e46e2676d110af/draw-io.png"/> </a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"> 
+	<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png"/></a>
+<a href="https://img.movavi.com/online-help/video-editor-plus-mac/15/index.htm" target="_blank">
+	<img height="48" src="https://img.movavi.com/online-help/video-editor-plus-mac/15/images/drex_index_custom.png"/></a>
+<a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank">
+	<img height="48" src="https://png.pngitem.com/pimgs/s/1-19823_transparent-cad-png-logo-autocad-2018-png-png.png"/></a>
 </p>
 </br>
 
