@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning all sorts of technologies such as React JS, Python etc
 - 👯 I’m looking to collaborate on any kinds of projects
 - 💬 Ask me about **Android, MERN, Java** 
-- 📫 How to reach me: it21138386@my.sliit.lk
+- 📫 How to reach me: sathirawijeratne@gmail.com
 - 😄 Pronouns: He/him
 
 <!--
