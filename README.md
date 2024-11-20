@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on any kinds of projects
 - 💬 Ask me about **Android, MERN, Java** 
 - 📫 How to reach me: sathirawijeratne@gmail.com
-- 😄 Pronouns: He/him
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21138386" alt="it21138386" /></a> </p>
