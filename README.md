@@ -1,10 +1,11 @@
 ### <h1 align="center">Hi 👋, I'm Sathira Wijeratne</h1>
 <!--<h3 align="center">A passionate Undergraduate</h3>-->
 
-- 🔭 I’m currently pursuing my BSc (Hons) in Information Technology Specialising in Software Engineering
-- 🌱 I’m currently learning all sorts of technologies such as React JS, Spring MVC, Flutter, Python etc
+- 🔭 I've earned my BSc (Hons) in Information Technology Specialising in Software Engineering at Sri Lanka Institute Of Information Technology (SLIIT)
+- 💼 I’ve previously worked at Applova Inc as a Trainee Software Engineer, where I worked on various Java Projects.
+- 🌱 I’m currently learning all sorts of technologies such as React JS, Spring, Flutter, Python etc
 - 👯 I’m looking to collaborate on any kinds of projects
-- 💬 Ask me about **Flutter, MERN, Spring MVC, Deep Learning** 
+- 💬 Ask me about **Flutter, MERN, Spring, Deep Learning** 
 - 📫 How to reach me: sathirawijeratne@gmail.com
 
 <!--
